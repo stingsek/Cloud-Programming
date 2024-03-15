@@ -1,4 +1,4 @@
-package com.cloud_programming.tictactoe
+package com.cloud_programming.tictactoe.app
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
